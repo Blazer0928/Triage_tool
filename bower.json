@@ -1,0 +1,13 @@
+{
+    "name": "Triage_Tool_For_Forensic_Analysis_Report_Generation",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
